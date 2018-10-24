@@ -1,0 +1,17 @@
+.satu {
+    background: #bd1212;
+    color: #fff;
+    padding: 100px;
+}
+
+.dua {
+    background: rgb(255, 230, 4);
+    color: #333;
+    padding: 200px;
+}
+
+.footer {
+    background: #000;
+    color: #fff;
+    padding: 10px;
+}
